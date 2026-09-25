@@ -30,7 +30,7 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,python,bash" />
 </p>
 
 ### Systems & Infrastructure
@@ -67,13 +67,13 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Maharnishk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/maharnish13/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:iammaharnish@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

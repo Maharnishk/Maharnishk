@@ -1,6 +1,6 @@
 # Hey, I'm Maharnish 👋
 
-### Cybersecurity | Software Engineering | Systems | AI
+### Cybersecurity | Systems |  Software Architecture | AI
 
 I'm a **B.Tech Computer Science student specializing in Cybersecurity**, currently focused on building strong foundations in **software engineering, cybersecurity, systems, and AI**.
 

@@ -30,7 +30,7 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" />
 </p>
 
 ### Systems & Infrastructure
@@ -52,94 +52,6 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 ### Tools
 
 `Wireshark` · `Nmap` · `Burp Suite` · `tcpdump` · `GDB` · `Docker` · `Git`
-
----
-
-## 🚧 Currently Learning
-
-```text
-Linux & Systems
-      ↓
-Computer Networking
-      ↓
-Operating Systems
-      ↓
-Cybersecurity
-      ↓
-Web & Application Security
-      ↓
-Software Architecture
-      ↓
-Distributed Systems
-      ↓
-Cloud & Infrastructure
-      ↓
-AI × Cybersecurity
-```
-
-Alongside this, I'm continuously improving my **C++, Python, DSA and software development fundamentals**.
-
----
-
-## 📌 Projects
-
-I'm building my portfolio around four areas:
-
-### 🔐 Cybersecurity
-
-Security tools, network analysis, web security labs, vulnerability research and security automation.
-
-### 🏗️ Software Architecture
-
-Projects focused on system design, APIs, components, data flow, scalability and maintainability.
-
-### 🐧 Systems
-
-Linux, networking, low-level programming and systems-oriented experiments.
-
-### 🤖 AI
-
-AI-powered applications, developer tools, automation and experiments combining AI with cybersecurity.
-
-> This section will evolve as I build and ship more projects.
-
----
-
-## 🎯 Direction
-
-I'm interested in the intersection of:
-
-**Cybersecurity × Systems × Software Architecture × AI**
-
-My long-term goal is to understand systems deeply enough to **design, build, secure and scale them**.
-
----
-
-## 📈 What You'll Find Here
-
-This GitHub is my public learning and building journey.
-
-* 🔐 Cybersecurity projects
-* 🏗️ Architecture & system-design experiments
-* 🐧 Linux experiments
-* 🌐 Networking projects
-* 💻 C++ / Python projects
-* 🤖 AI experiments
-* 🧩 DSA solutions
-* 🛠️ Developer tools
-* 📚 Technical notes
-* 🌍 Open-source contributions
-
----
-
-## ⚡ Philosophy
-
-> **Understand the system.
-> Understand how it breaks.
-> Design it better.
-> Secure it.
-> Build it.
-> Ship it.**
 
 ---
 

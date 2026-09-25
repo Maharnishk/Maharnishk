@@ -29,7 +29,7 @@ I'm currently working toward becoming a strong **security-focused software engin
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,bash" />
 </p>
 
 ### Systems & Infrastructure

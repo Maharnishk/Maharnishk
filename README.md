@@ -62,106 +62,17 @@ I'm currently working toward becoming a strong **security-focused software engin
 
 ---
 
-## 🚧 Currently Learning
-
-```text
-Linux & Systems
-      ↓
-Computer Networks
-      ↓
-Cybersecurity Fundamentals
-      ↓
-Web Security
-      ↓
-Operating Systems
-      ↓
-Cloud & Infrastructure
-      ↓
-Security Engineering
-      ↓
-AI + Cybersecurity
-```
-
-Alongside this, I'm continuously improving my **DSA, C++, Python and software engineering fundamentals**.
-
----
-
-## 📌 Featured Projects
-
-> Currently building my project portfolio. This section will grow as I ship more projects.
-
-### 🔐 Cybersecurity Projects
-
-* Security-focused projects
-* Network analysis tools
-* Web security labs
-* Vulnerability research
-* Automation scripts
-
-### 💻 Software Engineering Projects
-
-* Full-stack applications
-* Developer tools
-* Automation projects
-* Systems-oriented projects
-
-### 🤖 AI Projects
-
-* AI-powered developer tools
-* Cybersecurity + AI experiments
-* Intelligent automation
-
----
-
 ## 🎯 My Current Goals
 
 ```text
 Build → Learn → Break → Understand → Secure → Ship
 ```
-
-### Short Term
-
-* Build a strong cybersecurity foundation
-* Become comfortable with Linux and networking
-* Improve C++ and Python
-* Solve DSA consistently
-* Build meaningful projects
-* Start contributing to open source
-* Secure internships
-
-### Long Term
-
-Become a **security-focused software/systems engineer** capable of working across:
-
-**Software → Systems → Infrastructure → Security → AI**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 What You'll Find Here
-
-This GitHub is my public engineering journey.
-
-Expect to see:
-
-* 🧠 Learning repositories
-* 🔐 Cybersecurity projects
-* 💻 C++ / Python projects
-* 🐧 Linux experiments
-* 🌐 Networking projects
-* 🤖 AI experiments
-* 🧩 DSA solutions
-* 🛠️ Developer tools
-* 📚 Notes & resources
-* 🚀 Open-source contributions
 
 ---
 

@@ -54,4 +54,18 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 `Wireshark` · `Nmap` · `Burp Suite` · `tcpdump` · `GDB` · `Docker` · `Git`
 
 ---
+## ⚡ GitHub Telemetry
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=8B949E&dates=6E7681"/>
+
+</div>
+---
 

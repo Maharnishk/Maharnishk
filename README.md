@@ -55,9 +55,3 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 
 ---
 
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF9C&fire=FF3864&currStreakLabel=00FF9C&sideLabels=8B949E&dates=6E7681"/>
-
-</div>
----
-

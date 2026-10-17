@@ -47,7 +47,7 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 
 ### Cybersecurity
 
-`Linux Security` · `Network Security` · `Web Security` · `Cryptography` · `Vulnerability Research` · `Security Testing` · `Secure Coding`
+`Linux Security` · `Network Security` · `Web Security` · `Cryptography` · `Vulnerability Research` · `Security Testing` · 
 
 ### Tools
 

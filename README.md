@@ -21,8 +21,6 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 * 🌐 Web technologies & application security
 * 🤖 AI & AI-powered applications
 * 🛠️ Building real-world projects
-* 🌍 Exploring open source
-
 ---
 
 ## 🛠️ Tech Stack

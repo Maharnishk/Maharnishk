@@ -28,7 +28,7 @@ I enjoy going beyond simply using technology — I want to understand **how syst
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,go,rust" />
 </p>
 
 ### Systems & Infrastructure
